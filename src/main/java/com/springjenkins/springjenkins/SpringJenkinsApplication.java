@@ -18,7 +18,7 @@ public class SpringJenkinsApplication {
 		testJenkinsBuild();
 	}
 	
-	public static void testJenkinsBuild() {
+	public static  testJenkinsBuild() {
 		logger.info("Application started runnint, inside the testJenkinsBuild method");
 		System.out.println("testing jenkins");
 	}
