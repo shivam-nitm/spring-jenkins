@@ -11,7 +11,7 @@ class SpringJenkinsApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(SpringJenkinsApplicationTests.class);
 	@Test
 	void contextLoads() {
-		logger.info("inside SpringJenkinsApplicationTests");
+		logger.info("inside test class SpringJenkinsApplicationTests ");
 	}
 
 }
