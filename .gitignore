@@ -5,3 +5,7 @@ target/
 */target/**
 .idea
 /.classpath
+/.project
+/.project
+*.prefs
+*.class
